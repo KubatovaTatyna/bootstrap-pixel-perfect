@@ -65,3 +65,9 @@ header p{
     font-size: 20px;
     font-weight: 300;
 }
+ main section{
+     display: flex;
+     max-width: 900px;
+     justify-content: space-between;
+     margin: 0 auto;
+}
