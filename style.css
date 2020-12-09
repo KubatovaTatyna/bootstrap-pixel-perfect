@@ -38,5 +38,16 @@ nav ul li a{
     color: rgb(33, 37, 41);
 }
 .button-link{
-    
+    padding: 6px 12px;
+    border: 1px solid rgb(13, 110, 253);
+    color: rgb(13, 110, 253);
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;
+}
+.button-link:hover{
+    background-color: rgb(13, 110, 253);
+    color: #fff;
+    transition-duration: .15s;
+    transition-timing-function: linear;
 }
