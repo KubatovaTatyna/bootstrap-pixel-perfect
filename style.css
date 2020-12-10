@@ -157,3 +157,7 @@ header p{
     background-color: hsl(200, 100%, 30%);
     transition-duration: .3s;
 }
+footer img{
+    width: 20px;
+    height: 15px;
+}
